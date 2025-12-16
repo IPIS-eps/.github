@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there 👋
+
+We aim to fill the epsilon — the space where meaning hides between certainty and truth. 
+
 
 <!--
 
